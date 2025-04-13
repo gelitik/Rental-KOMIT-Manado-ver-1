@@ -5,7 +5,7 @@
       "name": "startm5",
       "title": "StartM5",
       "styling": {
-        "primaryColor": "#40f822",
+        "primaryColor": "#000000",
         "secondaryColor": "#ffffff",
         "successColor": "#000000",
         "infoColor": "#01563b",
@@ -26,7 +26,7 @@
         "isRoundedButtons": true,
         "isLargeButtons": true,
         "isGhostButtonBorder": true,
-        "underlinedLinks": true,
+        "underlinedLinks": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
