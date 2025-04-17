@@ -1339,7 +1339,7 @@ a {
   }
 }
 .cid-tJGD1DIY2H {
-  background-image: url("../../../assets/images/logo-tk-putih.jpeg");
+  background-image: url("../../../assets/images/logo-tk-putih.webp");
 }
 .cid-tJGD1DIY2H .mbr-fallback-image.disabled {
   display: none;
@@ -1382,7 +1382,7 @@ a {
   color: #000000;
 }
 .cid-uHUzolBJ0x {
-  background-image: url("../../../assets/images/logo-tk-putih.jpeg");
+  background-image: url("../../../assets/images/logo-tk-putih.webp");
 }
 .cid-uHUzolBJ0x .mbr-fallback-image.disabled {
   display: none;
@@ -1419,15 +1419,17 @@ a {
 }
 .cid-uHUzolBJ0x .mbr-section-title {
   color: #45ffff;
+  text-align: center;
 }
 .cid-uHUzolBJ0x .mbr-text,
 .cid-uHUzolBJ0x .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tJGKiS9ad3 {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/logo-tk-putih.jpeg");
+  background-image: url("../../../assets/images/logo-tk-putih.webp");
 }
 .cid-tJGKiS9ad3 .mbr-overlay {
   background: #000000;
@@ -1623,7 +1625,7 @@ a {
 .cid-uIdAWnFZaP {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/logo-tk-putih.jpeg");
+  background-image: url("../../../assets/images/logo-tk-putih.webp");
 }
 .cid-uIdAWnFZaP .mbr-fallback-image.disabled {
   display: none;
