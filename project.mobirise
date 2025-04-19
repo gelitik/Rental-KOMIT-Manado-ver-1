@@ -58,8 +58,8 @@
         "url": "https://fonts.googleapis.com/css?family=Manrope:200,300,400,500,600,700,800"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "ov4zicyjgj",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "mbrsiteDomain": "8bg0dmksjb",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": true,
